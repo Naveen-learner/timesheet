@@ -1,0 +1,4 @@
+reportlab
+PIL
+io
+datetime
