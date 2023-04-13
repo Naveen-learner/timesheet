@@ -10,7 +10,7 @@ from streamlit.components.v1 import components as stc
 
 
 # ...
-company_logo = '/Users/naveen/Downloads/cloudpro_logo.png'
+company_logo = 'cloudpro_logo.png'
 company_name = 'CloudPro IT Solutions'
 def generate_report(employee_name, report_dates, due_date, job_title, frequency, project_name, client_name, tasks, task_details, signature):
     
